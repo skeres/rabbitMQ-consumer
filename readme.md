@@ -40,7 +40,7 @@ For a simple string message like "http://localhost:9001/publish/msg01"
 TheType=com.sks.demo.StringMessage01
 StringMessage01 recieved : StringMessage01(message=msg01)
 ```
-for object message like "http://localhost:9001/publish"  
+For object message like "http://localhost:9001/publish"  
 **result**
 ```
 heType=com.sks.demo.ObjectMessage01
